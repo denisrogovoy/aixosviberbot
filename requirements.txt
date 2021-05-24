@@ -1,0 +1,7 @@
+radon==4.5.0
+ibm_db
+ibm_watson
+logdna
+viberbot
+requests
+ibm_cloud_sdk_core.authenticators
